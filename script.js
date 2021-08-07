@@ -1,6 +1,6 @@
 var songs = {
-  "0.7": "https://cdn.glitch.com/739040a0-e172-43f0-872b-5830d0b4d3a9%2F0.7.mp3?v=1628351635191",
-  "1.5": "https://cdn.glitch.com/739040a0-e172-43f0-872b-5830d0b4d3a9%2F1.5.mp3?v=1628351635408"
+  "0.7": "/0.7.mp3",
+  "1.5": "/1.5.mp3"
 }
 
 var rdInt = Math.floor(Math.random() * (4 - 1 + 1)) + 1;
